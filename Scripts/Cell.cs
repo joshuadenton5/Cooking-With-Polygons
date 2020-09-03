@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Cell 
+public class Cell //dictates a position where items can be placed 
 {
     private Vector3 position;
     private bool isTaken;
